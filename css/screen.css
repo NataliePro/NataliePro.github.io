@@ -120,10 +120,6 @@ a[href^="mailto:"]{
 }
 
 
-a[href^="http://www.youtube.com"]{
-    padding-left: 20px;
-    background: url(http://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico) no-repeat center left;
-}
 
 a[href^="skype:"]{
     padding-left: 20px;
